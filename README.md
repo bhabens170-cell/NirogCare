@@ -4,7 +4,7 @@
 
 ![NirogCare Logo](https://img.shields.io/badge/NirogCare-Healthcare%20Platform-00C853?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHBhdGggZD0iTTIyIDEyaC00bC0zIDlMOSAzbC0zIDloLTQiLz48L3N2Zz4=)
 
-🎥 **[Watch Demo Video](https://drive.google.com/file/d/1_Am5XiA54TNi1FhmyzCG-ut23vu9eOKC/view?usp=drive_link)** | 🌐 **[Try MVP](https://nirogcare-9a3ac.web.app/)**
+| **[Try MVP](https://nirogcare-9a3ac.web.app/)**
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
@@ -17,17 +17,17 @@
 
 ---
 
-## 🌟 About NirogCare
+## About NirogCare
 
 NirogCare is a **production-ready, comprehensive healthcare platform** designed to make quality healthcare accessible to everyone, regardless of language, location, or technical expertise. It provides essential health tools while maintaining the highest standards of privacy and accessibility.
 
-> **"Making quality healthcare accessible to everyone."** 🏥💚
+> **"Making quality healthcare accessible to everyone."**
 
 ---
 
-## 🛠️ Complete Technology Stack
+## Complete Technology Stack
 
-### 🎯 **Core Framework & Language**
+###  **Core Framework & Language**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -35,7 +35,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **TypeScript** | 5.8.3 | Type-safe development |
 | **Vite** | 5.4.19 | Fast build tool & dev server |
 
-### 🎨 **UI/UX & Styling**
+###  **UI/UX & Styling**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -45,28 +45,28 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Lucide React** | 0.462.0 | Modern icon library |
 | **next-themes** | 0.3.0 | Dark/Light theme management |
 
-### 📊 **Data Visualization & Charts**
+### **Data Visualization & Charts**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
 | **Recharts** | 2.15.4 | Health data visualization |
 | **Embla Carousel** | 8.6.0 | Touch-friendly carousels |
 
-### 🗺️ **Maps & Location Services**
+###  **Maps & Location Services**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
 | **Leaflet** | 1.9.4 | Interactive maps |
 | **React Leaflet** | 5.0.0 | React components for Leaflet |
 
-### 🔥 **Backend & Database**
+###  **Backend & Database**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
 | **Firebase** | 12.8.0 | Authentication, Firestore, Hosting |
 | **Supabase** | 2.90.0 | PostgreSQL database, Auth, Realtime |
 
-### 📋 **Forms & Validation**
+###  **Forms & Validation**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -74,7 +74,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Zod** | 3.25.76 | Schema validation |
 | **@hookform/resolvers** | 3.10.0 | Form validation resolvers |
 
-### 🔄 **State Management & Data Fetching**
+###  **State Management & Data Fetching**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -82,7 +82,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **TanStack React Query** | 5.83.0 | Server state management |
 | **React Router DOM** | 6.30.1 | Client-side routing |
 
-### 🎛️ **UI Components (Radix UI)**
+###  **UI Components (Radix UI)**
 
 | Component | Purpose |
 |-----------|---------|
@@ -103,7 +103,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | Toast | Notifications |
 | Tooltip | Hover information |
 
-### 🧪 **Development Tools**
+###  **Development Tools**
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -111,7 +111,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **PostCSS** | 8.5.6 | CSS processing |
 | **Autoprefixer** | 10.4.21 | CSS vendor prefixes |
 
-### 📱 **Mobile Development (Future)**
+###  **Mobile Development (Future)**
 
 | Technology | Purpose |
 |------------|---------|
@@ -120,9 +120,9 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 
 ---
 
-## 📱 Complete Features & Uses
+##  Complete Features & Uses
 
-### 🤖 **AI-Powered Healthcare**
+###  **AI-Powered Healthcare**
 
 | Feature | Description |
 |---------|-------------|
@@ -132,7 +132,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Predictive Insights** | Health trend analysis and predictions |
 | **Urgency Assessment** | Emergency detection and escalation |
 
-### 🏥 **Health Monitoring Suite**
+###  **Health Monitoring Suite**
 
 | Feature | Description |
 |---------|-------------|
@@ -147,7 +147,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Period Tracker** | Women's health monitoring |
 | **Breathing Exercises** | Stress relief and relaxation tools |
 
-### 📍 **Location-Based Services**
+###  **Location-Based Services**
 
 | Feature | Description |
 |---------|-------------|
@@ -155,7 +155,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Hospital Locator** | Emergency hospital access |
 | **Emergency Services** | Quick access to nearby emergency facilities |
 
-### 🆘 **Emergency Features**
+###  **Emergency Features**
 
 | Feature | Description |
 |---------|-------------|
@@ -165,7 +165,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Voice Activation** | "Emergency call" voice command |
 | **Location Sharing** | GPS coordinates to emergency contacts |
 
-### 👤 **User Profile & Onboarding**
+###  **User Profile & Onboarding**
 
 | Feature | Description |
 |---------|-------------|
@@ -185,7 +185,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Screen Reader Support** | WCAG 2.1 AA compliance |
 | **Reduced Motion** | Animation preferences |
 
-### ⌚ **Wearable Device Integration**
+###  **Wearable Device Integration**
 
 | Platform | Features |
 |----------|----------|
@@ -194,7 +194,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Fitbit** | Comprehensive health metrics |
 | **Garmin Connect** | Sports and health tracking |
 
-### 🎮 **Gamification & Engagement**
+###  **Gamification & Engagement**
 
 | Feature | Description |
 |---------|-------------|
@@ -204,7 +204,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Streak Tracking** | Consistency rewards |
 | **Family Challenges** | Multi-user competitions |
 
-### 👨‍👩‍👧‍👦 **Family Health Dashboard**
+###  **Family Health Dashboard**
 
 | Feature | Description |
 |---------|-------------|
@@ -214,7 +214,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Medication Reminders** | Family medication management |
 | **Health Reports** | Comprehensive family analytics |
 
-### 🏥 **Medical Management**
+###  **Medical Management**
 
 | Feature | Description |
 |---------|-------------|
@@ -223,7 +223,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 | **Health Records** | Organized medical history |
 | **Government Schemes** | Access health benefits |
 
-### ⚙️ **Settings & Customization**
+###  **Settings & Customization**
 
 | Feature | Description |
 |---------|-------------|
@@ -235,7 +235,7 @@ NirogCare is a **production-ready, comprehensive healthcare platform** designed 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -284,7 +284,7 @@ npm run dev
 
 ---
 
-## 📱 Available Scripts
+##  Available Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -296,7 +296,7 @@ npm run dev
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 NirogCare/
@@ -329,7 +329,7 @@ NirogCare/
 
 ---
 
-## 🔧 Configuration
+##  Configuration
 
 ### Supabase Setup
 1. Create a new Supabase project at [supabase.com](https://supabase.com)
@@ -351,7 +351,7 @@ NirogCare/
 
 ---
 
-## 🔒 Privacy & Security
+##  Privacy & Security
 
 | Feature | Description |
 |---------|-------------|
@@ -365,7 +365,7 @@ NirogCare/
 
 ---
 
-## 📊 Performance Metrics
+##  Performance Metrics
 
 | Metric | Value |
 |--------|-------|
@@ -378,7 +378,7 @@ NirogCare/
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 ### Upcoming Features
 - [ ] **Video Consultation** - Connect with doctors remotely
@@ -389,7 +389,7 @@ NirogCare/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
@@ -399,13 +399,13 @@ NirogCare/
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📞 Contact
+##  Contact
 
 - **Email**: bhabens170@gmail.com
 - **Phone**: +91 6000580631
@@ -415,7 +415,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**NirogCare** - Your health, our priority. 🏥💚
+**NirogCare** - Your health, our priority.
 
 Made with ❤️ for accessible healthcare
 
