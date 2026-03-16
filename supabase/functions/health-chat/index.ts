@@ -48,6 +48,8 @@ RESPONSE FORMAT:
 
 Remember: You're a health information assistant, NOT a replacement for medical professionals.`;
 
+    const model = Deno.env.get("HEALTH_CHAT_MODEL") || "openai/gpt-5.4-codex";
+
     const response = await fetch("https://ai.gateway.lovable.dev/v1/chat/completions", {
       method: "POST",
       headers: {
@@ -55,7 +57,7 @@ Remember: You're a health information assistant, NOT a replacement for medical p
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "google/gemini-3-flash-preview",
+        model,
         messages: [
           { role: "system", content: systemPrompt },
           ...messages,

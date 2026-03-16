@@ -61,6 +61,8 @@ IMPORTANT:
 - Respond in ${language} for text descriptions, but keep medicine names in English
 - Do NOT make up information - if something isn't visible, say so`;
 
+    const model = Deno.env.get("PRESCRIPTION_MODEL") || "anthropic/claude-opus-4.6";
+
     const response = await fetch("https://ai.gateway.lovable.dev/v1/chat/completions", {
       method: "POST",
       headers: {
@@ -68,7 +70,7 @@ IMPORTANT:
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        model: "google/gemini-2.5-pro",
+        model,
         messages: [
           { role: "system", content: systemPrompt },
           { 
