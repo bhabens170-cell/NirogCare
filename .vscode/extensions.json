@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    // AI assistance — requires GitHub Copilot Pro or Pro+ subscription
+    "github.copilot",
+    "github.copilot-chat",
+
+    // TypeScript / React
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "bradlc.vscode-tailwindcss",
+
+    // Supabase / Deno (Edge Functions)
+    "denoland.vscode-deno",
+    "supabase.vscode-supabase"
+  ]
+}
